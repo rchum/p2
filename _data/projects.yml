@@ -1,0 +1,17 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+- project: Data Mining for Business Analytics
+  role: Data Analyst
+  duration: January - May 2017
+  #url: https://www.linkedin.com/in/chumr/
+  description: Applied in-depth knowledge of several data mining concepts, processes, and techniques, including both supervised and unsupervised techniques. Comprehension, application, and evaluation of the data mining techniques to develop expertise in analyzing data for better decision making.
+
+  role1: Introduction
+  description1: The objective is ...
+  
+  role2: Hypothesis
+  description2: The experiement ...
+  
+  role3: Conclusion
+  description3: The finding is ...
+
