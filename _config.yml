@@ -33,7 +33,7 @@ resume_title:                   "Tax & Technology Professional"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_education:       true
+resume_section_education:       false
 resume_section_experience:      false
 resume_section_projects:        true
 resume_section_skills:          false
